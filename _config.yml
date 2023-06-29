@@ -1,2 +1,2 @@
-remote_theme: mdo/hyde
+theme: jekyll-theme-tactile
 markdown: kramdown
