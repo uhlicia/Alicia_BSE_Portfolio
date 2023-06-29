@@ -12,6 +12,8 @@
 |:--:|:--:|:--:|:--:|
 | Alicia Y | The Harker School | Mechanical Engineering | Incoming Sophmore 
 
+ <br>
+ 
 <!---
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
