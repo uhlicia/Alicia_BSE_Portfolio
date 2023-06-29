@@ -1,2 +1,2 @@
-theme: jekyll-remote-theme-hyde
+remote_theme: jekyll-theme-hyde
 markdown: kramdown
