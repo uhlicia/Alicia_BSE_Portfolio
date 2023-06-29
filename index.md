@@ -1,11 +1,11 @@
 # IoT Smart Lamp
 <!--- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
+<!--- <You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+
+ This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -52,8 +52,19 @@ For your first milestone, describe what your project is and how you plan to buil
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- What your plan is to complete your project -->
 
+# Starter Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3O3y8DIs7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  My starter project is the Useless Box, which I chose due to its intriguing concept. I thought: what would make this box useless? Turns out, the Useless Box relies mainly on a motor and a switch. Flipping the switch prompts the motor to rotate an acrylic piece and open the box. However, the acrylic piece eventually hits the switch, flipping it back, causing the motor to reverse and close the box. 
+  The process to create the project involves soldering a switch, snap switch, LED, resistors, and screw terminals to the circuit board. Then, I screwed two acrylic pieces to the motor, and attached the circuit board to the motor as well. Then I attached the assembly into the base of the box, and connected the batteries. Unfortunately, I didn't progress to the next step, which involves building the acrylic box. 
+  I wasn’t able to finish the project due to myriad problems I encountered. First, I soldered the snap switch on in the wrong direction. Then, I found out there was an issue with either the circuit lines or the switch, forcing me to restart. The new version included a slightly different snap switch because we ran out of the original. This new snap switch didn’t conduct the electricity properly in my project, which led to the moving acrylic arm not going back down after hitting the switch. I tried solving the problem by taping solder onto the metal flap and gluing the solder onto the metal flap, both of which were unsuccessful. The excess glue also hardened, ruining the switch. I desoldered it and used a new switch, but it still refused to work. 
+  I already spent a lot of time and still practiced and learned a lot from the useless box so I decided to complete a quick LED starter project. It consists of three sliders that control the RGB (red, green, blue)values and change the color of an LED. 
+  The difficulties I faced during this experience taught me the importance of patience and problem-solving, qualities that are important when I deal with problems in my intensive project.
+
+<!---
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
