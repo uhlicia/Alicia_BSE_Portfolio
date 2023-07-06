@@ -1,5 +1,6 @@
 # Smart Lamp With IoT Technology
 <!--- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
+The IoT (internet of things) smart lamp, is a project involving sensors, colorful lights, and wifi. The lamp includes multiple features: changing colors with rgb, detecting the temperature and humidity in a room, automatically turning on and off, sensing motion, and sending alerts to my email and phone. These aspects are not only really convenient, but I can access and personalize them with a click of a button from my phone. 
 
 <!--- <You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 
