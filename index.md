@@ -42,19 +42,20 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone -->
 
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noj1Op3PSlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project -->
+My main project is the Smart Lamp with IoT (internet of things) technology. I chose it because of its practicality, design freedom, and multicolor LEDs. When connected to power, the smart lamp’s data appears on a website called Cayenne, which displays information like temperature, motion, and RGB sliders on a dashboard. Cayenne also features triggers that email and text alerts when for example: temperature surpasses a certain threshold.  
+For my first milestone I wired all the components together, uploaded the code to the board, and set up Cayenne. I used multiple sensors and components in the project: DHT11 (digital humidity and temperature sensor), PIR sensor (passive infrared sensor → motion), LDR (light dependent resistor → light), 1k resistor, buzzer, neopixel ring light, and NODEMCU esp8266 (board → WiFi connectivity).  
+I used a breadboard as the base because it makes troubleshooting very convenient and wired up all the parts. Afterwards, I used the Arduino code in the instructions and attempted to upload it to my NODEMCU. As expected, there were a lot of problems which I will talk about later, but eventually I managed to upload the code and started to troubleshoot a lot of the major errors. After figuring out the code and wiring, I was able to access Cayenne and start creating widgets and triggers.   
+Despite everything working by the end of the week, there were a lot of drawbacks throughout the process. I had three major ones, and they each costed me a lot of time and effort to fix. My first problem was uploading the code to my board: it wouldn’t upload no matter what I did. I practically spent an entire day trying different methods: changing the adaptor, cord, arduino settings, and even using a different version of the esp8266 library. None of it worked, except when I changed the library back to the original, an error popped up saying that my board wasn’t the esp8266, but the esp32. I double checked, and turns out my board was the wrong one. After using the write board, I managed to upload the code. The next problem I faced was the DHT11 sensor not receiving proper values, the numbers were always the maximum integer number, zero, or nan (not a number). I decided to isolate the sensor and use sample code to ensure that the sensor was actually working, but it was really frustrating because I would fix the code and the values would seem normal, then five minutes later, without changing anything, it stopped working again. The process of working then not working kept occurring which befuddled and annoyed me because I didn’t understand why it kept happening. I realized two things: the pin mapping of the board was really weird, I had to define pin D2 as either D2 or 4, not just 2; and I had to connect the positive and negative terminals to the pins on the board because that was where there was power. My last problem was my neopixel ring light, it wouldn’t light up or receive values from Cayenne. I used the same tactic: isolation. I found that I had to solder the wires to the light because the connection was very sketchy otherwise, I also altered the code and it lit up. I started troubleshooting the code that wasn’t receiving values and found out that my restrictions for when the light can turn on weren’t allowing it to turn on. I fixed all the problems, and the majority of my project was done.   
+I definitely became a lot more efficient at troubleshooting as the later problems were solved in a more timely matter (cough cough my DHT11). For my next milestone, I plan on moving my circuit onto a smaller bread board, finding a reliable power source (maybe I can use a wall outlet), and figuring out how my neopixel can turn on automatically, so I don’t have to manually activate it in Cayenne.   
+
 
 # Starter Project
 
