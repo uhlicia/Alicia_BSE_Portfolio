@@ -46,8 +46,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noj1Op3PSlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My main project is the Smart Lamp with IoT (internet of things) technology. I chose it because of its practicality, design freedom, and multicolor LEDs. When connected to power, the smart lamp’s data appears on a website called Cayenne, which displays information like temperature, motion, and RGB sliders on a dashboard. Cayenne also features triggers that email and text alerts when for example: temperature surpasses a certain threshold.  
