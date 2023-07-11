@@ -29,20 +29,19 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-
+-->
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1VF3IKby2kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+My second milestone was rather short compared to my first: I coded my neopixel so it would turn on automatically and I fixed some of my code and wiring so my LDR (light dependent resistor) and PIR (passive infrared) sensor ran more smoothly.  
+The adjustments I made allowed for my neopixel to turn on when the room is dim or when there is motion, but turn off when it is bright and there is no motion.  
+The challenges encountered were the LDR and the PIR sensor, they were my main points in this milestone because it made my project go from inconsistent to smooth. During my first milestone, I wasn’t even aware that the values of my LDR and PIR were inaccurate because I thought the sensors just weren’t that reliable to begin with; however, when my LDR kept outputting single digit values that fluctuated a lot, I knew there was something wrong. The values ranged from 1 - 14, one should be dark and fourteen should be bright, yet it was going from 3 - 9 when the lighting in the room didn’t change at all, which meant that something was clearly not working properly. I found out that the positive and negative parts of the sensor were supposed to be connected to the board (this happened a lot, but every single component really had to be connected to the board). Afterwards, the numbers shot up to 400: when I shined my phone flashlight on it it would go up to 600, and when I put it under the table it would go down to 150. These triggers and reactions made a lot more sense and my LDR sensor was completely fine now. My PIR sensor also had the problem where I had to swing my hand in front of it for 15+ seconds before it would read that there is motion. I troubleshooted by isolating it, using code that takes into account low sensitivity, using a different sensor, and twisting the sensitivity knobs (I didn’t even know they existed but they are the two orange knobs). After all the testing, the sensor worked slightly smoother, sometimes it would take longer to detect motion but it works for now.  
+The reason why I left my PIR as is is because I plan on using a physical button or switch, so even if the sensor becomes really unreliable, I can still turn the lamp on off and use it with the physical button or switch.  
+For my third milestone, I plan on wiring the button or switch to the circuit and adding code for it, soldering everything onto a PCB (printed circuit board), and creating the enclosure.  
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone -->
 
 # First Milestone
 
