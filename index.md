@@ -88,16 +88,16 @@ void loop() {
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
-| **Part** | **Note** | **Price** | **Link** |
+| **Part and Quantity** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| NODEMCU ESP8266 | Microcontroller Board with Wifi | $7.99 | <a href="https://www.amazon.com/dp/B010O1G1ES/ref=twister_B086QGXBRW?_encoding=UTF8&psc=1"> Link </a> |
-| DHT11 | Temperature and Humidity Sensor | $9.99 | <a href="https://www.amazon.com/Adafruit-temperature-humidity-sensor-extras-ADA386/dp/B00NAY22V8"> Link </a> |
-| NeoPixel Ring (12 LEDs) | Colorful Light with RGB | $11.40 | <a href="https://www.amazon.com/Adafruit-NeoPixel-Ring-Integrated-Drivers/dp/B00KAE3R1U/ref=sr_1_1crid=B5L3C9ZLNEGO&keywords=adafruit+neopixel+12+led&qid=1689178366&sprefix=adafruit+neopixel+12+led%2Caps%2C151&sr=8-1"> Link </a> |
-| PIR Sensor | Motion Sensor | $11.99 | <a href="https://www.amazon.com/Adafruit-LK-918O-SANV-FBACA-PIR-Motion-Sensor/dp/B00JOZTAC6"> Link </a> |
-| LDR Sensor | Light Sensor | $7.99 | <a href=""> Link </a> |
-| Buzzer | Sends High Low Signals | $7.99 | <a href=""> Link </a> |
-| 1K Resistor | Slows Down the Electrical Current | $7.99 | <a href=""> Link </a> |
-| Buzzer | Sends High Low Signals | $7.99 | <a href=""> Link </a> |
+| 1 NODEMCU ESP8266 | Microcontroller Board with Wifi | $7.99 | <a href="https://www.amazon.com/dp/B010O1G1ES/ref=twister_B086QGXBRW?_encoding=UTF8&psc=1"> Link </a> |
+| 1 DHT11 | Temperature and Humidity Sensor | $9.99 | <a href="https://www.amazon.com/Adafruit-temperature-humidity-sensor-extras-ADA386/dp/B00NAY22V8"> Link </a> |
+| 1 NeoPixel Ring (12 LEDs) | Colorful Light with RGB | $11.40 | <a href="https://www.amazon.com/Adafruit-NeoPixel-Ring-Integrated-Drivers/dp/B00KAE3R1U/ref=sr_1_1crid=B5L3C9ZLNEGO&keywords=adafruit+neopixel+12+led&qid=1689178366&sprefix=adafruit+neopixel+12+led%2Caps%2C151&sr=8-1"> Link </a> |
+| 1 PIR Sensor | Motion Sensor | $11.99 | <a href="https://www.amazon.com/Adafruit-LK-918O-SANV-FBACA-PIR-Motion-Sensor/dp/B00JOZTAC6"> Link </a> |
+| 1 LDR Sensor | Light Sensor | $7.99 | <a href=""> Link </a> |
+| 1 Buzzer | Sends High Low Signals | $6.98 | <a href="https://www.amazon.com/Cylewet-Electronic-Magnetic-Continuous-Arduino/dp/B01N7NHSY6/ref=sr_1_3?crid=WN57I7A8ZBMC&keywords=buzzer+electronics&qid=1689180534&sprefix=buzzer+elec%2Caps%2C150&sr=8-3"> Link </a> |
+| 1 1K Resistor | Slows Down the Electrical Current | $5.99 | <a href="https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QG1V4YL/ref=sr_1_4?crid=3EFHJNWIP3LWT&keywords=1k+resistor&qid=1689180561&sprefix=1k+resistor%2Caps%2C193&sr=8-4"> Link </a> |
+| 1 Buzzer | Sends High Low Signals | $7.99 | <a href=""> Link </a> |
 
 
 # Other Resources/Examples
