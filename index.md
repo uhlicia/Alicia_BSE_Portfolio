@@ -10,7 +10,7 @@ The IoT (internet of things) smart lamp, is a project involving sensors, colorfu
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Alicia Y | The Harker School | Mechanical Engineering | Incoming Sophmore 
+| Alicia Y | The Harker School | Mechanical Engineering | Incoming Sophomore 
 
  
 <!---
