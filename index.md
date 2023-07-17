@@ -30,6 +30,15 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 -->
+# Third Milestone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6E-s-mozakk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+My third milestone didn’t actually go according to my original plan. Instead of adding a switch, soldering everything onto a PCB(printed circuit board), and creating the enclosure. This was because the switch is a modification which will be a part of my final milestone, and I want to test my other modifications before soldering all the parts together. Therefore, my third milestone solely revolved around the creation of container.  
+My enclosure consists of a clear acrylic box with pieces of light diffusing plastic on the inside. There is also a rectangular cut out for the USB (universal serial bus) cable.  
+The main challenge I dealt with was finding a viable solution to house my hardware. Initially, I wanted to use the 3D printer or a laser cutter to create a container; however, I didn’t have access to a laser cutter and the filament the 3D printer uses is completely opaque (the light won’t shine through). Although the solution I came across wasn’t the most optimal, I compromised and worked with what I had. I used a clear acrylic box but made some modifications to it, so it was more my liking. The completely transparent box put the wires and hardware on full display which I didn’t like, so I used light diffusing plastic on the inside in order to block the view of all the wires and to also to distribute the light better. I also needed a rectangular cut out, so one of the instructors helped me cut it out. Although it resulted with some scratches, I didn’t mind too much. The last issue I had was with the LDR (light dependent resistor) sensor. When it is in the box along with the NeoPixel light, it detects the light from the NeoPixel, causing it to turn off the moment it turns on. I resolved the problem by soldering wires to the legs of the LDR sensor so the sensor can peek through the hole my USB cable goes through and detect the outside light while being unaffected by the NeoPixel.  
+Currently, my breadboard set up forces the LDR sensor to point downwards and not detect light properly, but after I solder my components onto a PCB, which is lower to the ground, the problem will resolve itself.  
+For my modifications, I intend to add a switch and a new light mode. The new light mode, weather mode, will take in weather data and depending on the weather status (sunny, cloudy, rainy) it will change colors. After I test those components, i will solder my parts onto a PCB and complete my project.  
 
 
 # Second Milestone
