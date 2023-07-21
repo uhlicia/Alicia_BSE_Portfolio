@@ -102,8 +102,8 @@ The difficulties I faced during this experience taught me the importance of pati
 DHT dht(DHTPIN, DHTTYPE);
 Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
-char ssid[] = "minibini";
-char password[] = "75517551";
+char ssid[] = "Stratford Guest"; //wifi network you are using
+char password[] = ""; //password for wifi network, if it is guest network leave it blank like this
 char username[] = "38fe4c00-1446-11ee-9ab8-d511caccfe8c";
 char mqtt_password[] = "f4515ae60ab00cf82fda2b96f4744f3112261029";
 char client_id[] = "56f30f20-1446-11ee-8485-5b7d3ef089d0";
