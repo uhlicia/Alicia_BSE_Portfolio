@@ -78,7 +78,7 @@ The difficulties I faced during this experience taught me the importance of pati
 # Schematics 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.  -->
 
-<img src="schematicsbutbetter.png" width="60%" height="60%" />
+<img src="schematicsbutbetter.png" width="67%" height="67%" />
 
 <img src="cayenne3.png" width="100%" height="100%" />
 
@@ -197,7 +197,8 @@ void setLight(){
     Serial.println(PIRval);
     Serial.println(LDRval);
 
-    if (PIRval > 0){
+    //thresholds to auto turn on and off, change values according to the room
+    if (PIRval > 0){ 
       setColor(r, g, b);
     }
     else if (LDRval < 320){
