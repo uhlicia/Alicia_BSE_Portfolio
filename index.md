@@ -271,7 +271,7 @@ Incomplete at the moment because project isn't finished this is just what I have
 | 1 | Breadboard | Prototyping and Base for Circuit | $12.99 | <a href="https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_4crid=2JO3WCBVW2ZO5&keywords=breadboard&qid=1689182601&sprefix=breadboar%2Caps%2C152&sr=8-4&th=1"> Link </a> |
 | 1 | Clear Acrylic Box | Enclosure | $16.99 | <a href="https://www.amazon.com/Hewomate-Acrylic-Display-3-9x3-9x3-9-Containers/dp/B09YVLXYC8/ref=sr_1_2crid=1KZVRMN2WVN3I&keywords=acrylic+box+3.9+x+3.9+x3.9+in&qid=1689809468&sprefix=acrylic+box+3.9+x+3.9+x3.9+in%2Caps%2C144&sr=8-2"> Link </a> |
 | 2 | Stencil Making Sheet | Diffusing Light | $13.99 | <a href="https://www.amazon.com/Translucent-Stencil-Gyro-Cut-Template-Material/dp/B08PVYHH4M/ref=sr_1_5crid=2WLCSK4EWCFYZ&keywords=banltre+10+sheets+10+mil+mylar+sheet&qid=1689809595&sprefix=banltre+%2Caps%2C132&sr=8-5"> Link </a> |
-
+| 2 | Toggle Switches (Modification) | Manual On Off, Change Modes | $5.99 | <a href="https://www.amazon.com/Toggle-Rocker-Switch-Position-QTEATAK/dp/B07Y1GDRQG/ref=sr_1_6crid=3TRDB6OMEFOOJ&keywords=toggle%2Bswitch%2B3%2Bpin&qid=1689954585&sprefix=toggle%2Bswitch%2B3%2Bpin%2Caps%2C176&sr=8-6&th=1"> Link </a> |
 
 <!--
 # Other Resources/Examples
