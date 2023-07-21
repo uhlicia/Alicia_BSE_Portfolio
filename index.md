@@ -80,6 +80,8 @@ The difficulties I faced during this experience taught me the importance of pati
 
 <img src="schematicsbutbetter.png" width="75%" height="75%" />
 
+<img src="cayenne.png" width="50%" height="50%" />
+
 
 # Smart Lamp Code
 <!--- Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
