@@ -12,7 +12,8 @@ The IoT (internet of things) smart lamp, is a project involving sensors, colorfu
 |:--:|:--:|:--:|:--:|
 | Alicia Y | The Harker School | Mechanical Engineering | Incoming Sophomore 
 
- 
+<img src="Alicia-Headshot.png" width="50%" height="50%" />
+
 <!---
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
