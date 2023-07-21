@@ -80,7 +80,7 @@ The difficulties I faced during this experience taught me the importance of pati
 
 <img src="schematicsbutbetter.png" width="75%" height="75%" />
 
-<img src="cayenne.png" width="80%" height="80%" />
+<img src="cayenne2.png" width="90%" height="90%" />
 
 
 # Smart Lamp Code
